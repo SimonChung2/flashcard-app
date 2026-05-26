@@ -1,16 +1,28 @@
-# React + Vite
+# French-English Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React flashcard app for learning French-English geotechnical vocabulary.
 
-Currently, two official plugins are available:
+The app is designed as a lightweight study tool for civil engineering, construction, and geotechnical terms. Users can review terms in English to French or French to English mode.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- View geotechnical vocabulary flashcards
+- Show and hide the answer
+- Move to the next card
+- Move to the previous card
+- Pick a random card
+- Switch between English to French and French to English
+- Track progress through the card deck
+- Responsive layout for desktop and mobile screens
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
+
